@@ -21,3 +21,4 @@ pip install -r requirements.txt
 
 ```
 python SysInfoTool.py
+![proje](https://github.com/user-attachments/assets/dc1b41c9-24f1-4a0c-a8d8-61314bae309f)
